@@ -48,10 +48,10 @@ a {
     cursor: pointer;
 }
 .nav-link:hover {
-    background-color: #404bbf;
+    color: #404bbf;
 }
 .nav-link:focus {
-    background-color: #404bbf;
+    color: #404bbf;
     
 
 }
@@ -74,10 +74,10 @@ a {
     line-height: 24px;
 }
 .address-link:hover {
-    background-color: #404bbf;
+    color: #404bbf;
 }
 .address-link:focus {
-    background-color: #404bbf;
+    color: #404bbf;
 }
 
 
