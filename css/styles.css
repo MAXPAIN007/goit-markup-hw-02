@@ -12,16 +12,16 @@ a {
     text-decoration: none;
 }
 
-.header {
-    /* display: flex;
+/* .header {
+    display: flex;
     align-items: center;
-    justify-content: space-between; */
-}
-.nav {
-    /* display: flex;
+    justify-content: space-between;
+} */
+/* .nav {
+    display: flex;
     gap: 40px; 
-    align-items: center; */
-}
+    align-items: center;
+} */
 .header-logo-link {
     font-family: "Raleway", sans-serif;
     font-size: 18px;
@@ -35,9 +35,9 @@ a {
 .header-logo {
     color: #2E2F42;
 }
-.nav-list {
-    /* display: flex;     */
-}
+/* .nav-list {
+    display: flex;    
+} */
 .nav-link {
     color: #2E2F42;
     font-family: "Roboto", sans-serif;
@@ -58,9 +58,9 @@ a {
 .address {
     font-style: normal;
 }
-.address-list {
-    /* display: flex;     */
-}
+/* .address-list {
+    display: flex;    
+} */
 .address-link {
     color: #434455;
     /* width: auto; */
@@ -81,7 +81,7 @@ a {
 }
 
 
-main {}
+/* main {} */
 
 
 .section-one {
@@ -131,17 +131,17 @@ main {}
     display: flex;    
     justify-content: center; */
 }
-.section-two-title{
-    /* font-size: 0;
+/* .section-two-title{
+    font-size: 0;
     line-height: 0;
     height: 0;
-    overflow: hidden; */
-}
-.fitures-list {
-    /* align-items: center;
-    display: flex; */
-}
-.fitures-item {}
+    overflow: hidden;
+} */
+/* .fitures-list {
+    align-items: center;
+    display: flex;
+} */
+/* .fitures-item {} */
 .fitures-subtitle {
     color: #2E2F42;
     /* width: auto; */
@@ -184,15 +184,15 @@ main {}
     text-align: center;
     line-height: 1.11;
 }
-.our-team-list {
-    /* align-items: center;
+/* .our-team-list {
+    align-items: center;
     display: flex;
-    justify-content: center; */
-}
+    justify-content: center;
+} */
 .employee-item {
     background-color: #FFFFFF;    
 }
-.employee-img {}
+/* .employee-img {} */
 .employee-title {
     color: #2E2F42;
     /* width: auto; */
@@ -238,18 +238,18 @@ main {}
     text-align: center;
     line-height: 1.11;
 }
-.portfolio-list {
-    /* justify-content: center;
+/* .portfolio-list {
+    justify-content: center;
     align-items: center;
     display: grid;
-    grid-template-columns: repeat(3, 1fr); */
-}
+    grid-template-columns: repeat(3, 1fr);
+} */
 .portfolio-item {
     background-color: #FFFFFF;
 }
-.portfolio-img {
-    /* width: 360; */
-}
+/* .portfolio-img {
+    width: 360;
+} */
 .portfolio-subtitle {
     color: #2E2F42;
     /* width: auto; */
