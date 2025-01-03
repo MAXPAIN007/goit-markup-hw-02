@@ -56,7 +56,7 @@ a {
 
 }
 .address {
-    /* font-style: normal; */
+    font-style: normal;
 }
 .address-list {
     /* display: flex;     */
@@ -98,7 +98,7 @@ main {}
     font-size: 56px;
     font-weight: 700;    
     letter-spacing: 0.02em;
-    /* text-align: center; */
+    text-align: center;
     /* vertical-align: top; */
     line-height: 1.07;
     /* align-items: center; */
@@ -113,7 +113,7 @@ main {}
     letter-spacing: 0.04em;
     /* vertical-align: top; */
     line-height: 24px;    
-    /* text-align: center; */
+    text-align: center;
     background-color: #4D5AE5;
     cursor: pointer;
 }
@@ -180,8 +180,8 @@ main {}
     font-weight: 700;
     text-transform: capitalize;
     letter-spacing: 0.02em;
-    /* vertical-align: top;
-    text-align: center; */
+    /* vertical-align: top; */
+    text-align: center;
     line-height: 1.11;
 }
 .our-team-list {
@@ -201,8 +201,8 @@ main {}
     font-weight: 500;
     font-style: normal;
     letter-spacing: 0.02em;
-    /* vertical-align: top;
-    text-align: center; */
+    /* vertical-align: top; */
+    text-align: center;
     line-height: 1.2;
 }
 .employee-desc {
@@ -213,8 +213,8 @@ main {}
     font-weight: 400;
     font-style: normal;
     letter-spacing: 0.02em;
-    /* vertical-align: top;
-    text-align: center; */
+    /* vertical-align: top; */
+    text-align: center;
     line-height: 24px;
 }
 
@@ -234,8 +234,8 @@ main {}
     font-weight: 700;
     text-transform: capitalize;
     letter-spacing: 0.02em;
-    /* vertical-align: top;
-    text-align: center; */
+    /* vertical-align: top; */
+    text-align: center;
     line-height: 1.11;
 }
 .portfolio-list {
@@ -258,8 +258,8 @@ main {}
     font-weight: 500;
     font-style: normal;
     letter-spacing: 0.02em;
-    /* vertical-align: top;
-    text-align: left; */
+    /* vertical-align: top; */
+    text-align: left;
     line-height: 1.2;
 }
 .portfolio-desc {
@@ -270,8 +270,8 @@ main {}
     font-weight: 400;
     font-style: normal;
     letter-spacing: 0.02em;
-    /* vertical-align: top;
-    text-align: left; */
+    /* vertical-align: top; */
+    text-align: left;
     line-height: 24px;
 }
 
@@ -286,8 +286,8 @@ main {}
     text-transform: uppercase;
     line-height: 1.17;
     letter-spacing: 0.03em;
-    /* vertical-align: middle;
-    text-align: left; */
+    /* vertical-align: middle; */
+    text-align: left;
     color: #4D5AE5;
 }
 .footer-logo {
@@ -301,7 +301,7 @@ main {}
     font-weight: 400;
     font-style: normal;
     letter-spacing: 0.02em;
-    /* vertical-align: top;
-    text-align: left; */
+    /* vertical-align: top; */
+    text-align: left;
     line-height: 1.5;
 }
